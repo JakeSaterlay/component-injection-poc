@@ -7,8 +7,7 @@ function ComponentOne() {
       Component One
       <button onClick={() => setCount(count + 1)}>Click me</button>
       <p>
-        Count
-        <span>{count}</span>
+        Count <span>{count}</span>
       </p>
     </div>
   );

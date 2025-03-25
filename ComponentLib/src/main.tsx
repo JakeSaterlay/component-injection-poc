@@ -1,5 +1,4 @@
 import { createRoot } from "react-dom/client";
-import "./index.css";
 import ComponentOne from "./components/ComponentOne.tsx";
 import ComponentThree from "./components/ComponentThree.tsx";
 import ComponentTwo from "./components/ComponentTwo.tsx";
